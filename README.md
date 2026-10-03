@@ -33,7 +33,7 @@ The audit covered:
 │   └── README.md
 ├── docs/
 │   ├── README.md
-│   ├── docs/accessibility-audit.md
+│   ├── accessibility-audit.md
 │   ├── accessibility-audit-worksheet.xlsx
 │   └── screenshots/
 ├── tests/
@@ -155,11 +155,11 @@ API-provided content rendered through innerHTML
 
 Detailed evidence and remediation recommendations are documented in:
 
-accessibility-audit.md
+docs/accessibility-audit.md
 
 The structured accessibility worksheet is:
 
-accessibility-audit-worksheet.xlsx
+docs/accessibility-audit-worksheet.xlsx
 
 Audit Evidence
 
