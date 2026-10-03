@@ -33,7 +33,7 @@ The audit covered:
 │   └── README.md
 ├── docs/
 │   ├── README.md
-│   ├── accessibility-audit.md
+│   ├── docs/accessibility-audit.md
 │   ├── accessibility-audit-worksheet.xlsx
 │   └── screenshots/
 ├── tests/
