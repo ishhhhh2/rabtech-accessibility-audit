@@ -165,7 +165,7 @@ Audit Evidence
 
 Supporting screenshots are stored in:
 
-screenshots/
+docs/screenshots/
 
 
 These screenshots provide evidence for the documented audit findings.
